@@ -1,4 +1,4 @@
 # Lab 7 - Starter
 
-Shota Yasuraoka
-Vincent McCloskey
+https://shotayasuraoka.github.io/lab7-starter-Shota-Vincent/
+Shota Yasuraoka, Vincent McCloskey
